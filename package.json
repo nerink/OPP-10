@@ -1,0 +1,17 @@
+{
+  "name": "opp",
+  "version": "1.0.0",
+  "description": "OPP module 10 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
